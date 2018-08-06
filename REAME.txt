@@ -1,0 +1,2 @@
+You can find answer of question 1,2,3 in EDA.ipynb
+You can find final model in Model.ipynb
